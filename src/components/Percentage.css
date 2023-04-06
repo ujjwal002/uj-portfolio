@@ -1,0 +1,57 @@
+.percentage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 20px;
+  margin: 2px;
+}
+
+.container {
+  background-color: rgb(192, 192, 192);
+  width: 80%;
+  border-radius: 15px;
+}
+
+.skill {
+  background-color: rgb(116, 194, 92);
+  color: white;
+  padding: 1%;
+  text-align: right;
+  font-size: 20px;
+  border-radius: 15px;
+}
+
+.html {
+  width: 100%;
+}
+
+.css {
+  width: 90%;
+}
+.js {
+  width: 90%;
+}
+.rs {
+  width: 80%;
+}
+.ns {
+  width: 75%;
+}
+.es {
+  width: 85%;
+}
+.mb {
+  width: 75%;
+}
+h1 {
+  margin: 20px;
+  color: red;
+}
+hr {
+  color: red;
+}
